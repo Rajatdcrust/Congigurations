@@ -1,0 +1,12 @@
+setup steps
+1. install required php version ie 8.2
+2. configure system environment variable
+3. install composer package manager and run
+composer create-project laravel/laravel example-app
+4. if error comes enable fileinfo extension in php.ini
+5. if php.ini is not editable
+then open using cmd
+open cmd as admininstrator 
+go to folder
+type filename php.ini it is editable now
+6.follow installation and wait for some time
